@@ -43,7 +43,7 @@ Users should be able to:
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
-- Redux
+- [Redux](https://react-redux.js.org/)
 
 
 ## Author
