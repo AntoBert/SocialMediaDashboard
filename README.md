@@ -25,10 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/01.png)
-![](./screenshot/02.png)
-![](./screenshot/03.png)
-![](./screenshot/04.png)
+![](./public/screenshot/01.png)
+![](./public/screenshot/02.png)
+![](./public/screenshot/03.png)
+![](./public/screenshot/04.png)
 
 
 ### Links
